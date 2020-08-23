@@ -1,1 +1,2 @@
-# RUN
+# synchronousBallMovement
+Ball moving synchronously
